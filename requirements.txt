@@ -1,0 +1,12 @@
+lxml
+xlsxwriter
+pytest
+flake8==2.5.1
+mock
+pyserial==2.7
+junitxml
+jenkinsapi==0.2.32
+jinja2
+openpyxl
+isodate
+numpy
